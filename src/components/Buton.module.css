@@ -1,0 +1,16 @@
+.oy-buton {
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .oy-sayisi {
+    font-size: 14px;
+    margin-top: 10px;
+    color: #4caf50;
+  }
+  
